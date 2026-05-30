@@ -2,18 +2,63 @@
 
 🎓 Integrated M.Tech (CSE) Student
 
-🚀 Founder & Developer of **PikaDecks** — an AI-powered study and productivity platform designed to help students learn smarter.
+🚀 Builder, Problem Solver, and Tech Enthusiast passionate about creating products that make a real-world impact.
 
-## About Me
+---
 
-* 💻 Passionate about Software Development and AI
-* 🌱 Currently building and scaling PikaDecks
-* 📚 Interested in Full Stack Development, Mobile Apps, Cloud, and Product Building
+## 👨‍💻 About Me
+
+* 🎓 Integrated M.Tech (Computer Science & Engineering) Student
+* 🚀 Founder & Developer of innovative AI-powered products
+* 💻 Passionate about Software Engineering, AI, and Product Development
+* 🌱 Continuously learning Full Stack Development, Cloud Technologies, and Scalable Systems
 * 🌾 Interested in Agri-Tech and technology-driven solutions
-* 📷 Love Photography, Music, Travel, and Exploring Different Cultures
-* 🎯 Always learning new technologies and improving my development skills
+* 📷 Photography Enthusiast
+* 🎵 Music Lover
+* ✈️ Love exploring different cultures and traveling
 
-## Tech Stack
+---
+
+## 🚀 Featured Projects
+
+### 📚 PikaDecks
+
+An AI-powered learning and productivity platform designed to help students study smarter and stay organized.
+
+**Key Features**
+
+* AI-generated flashcards
+* Smart study material organization
+* Productivity-focused learning tools
+* Cross-platform mobile experience
+* Student-first design
+
+### 💼 HiResentry
+
+An AI-powered resume and career optimization platform that helps users improve their job application success.
+
+**Key Features**
+
+* Resume analysis and scoring
+* AI-powered feedback
+* Resume optimization suggestions
+* Career readiness insights
+* Modern and user-friendly experience
+
+---
+
+## 🎯 Current Focus
+
+* 🚀 Scaling PikaDecks
+* 💼 Enhancing Hiresentry
+* 📱 Mobile App Development
+* 🤖 AI-Powered Products
+* ☁️ Cloud Infrastructure & Deployment
+* 📚 Continuous Learning
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -23,7 +68,7 @@
 * Python
 * SQL
 
-### Frameworks & Tools
+### Frameworks & Technologies
 
 * React
 * React Native
@@ -33,32 +78,24 @@
 * Clerk Authentication
 * Git & GitHub
 
-## Current Focus
+---
 
-* 🚀 Launching PikaDecks on Google Play Store
-* 📱 Building scalable mobile applications
-* 🤖 Exploring AI-powered educational tools
-* ☁️ Learning modern cloud and deployment workflows
+## 📊 GitHub Stats
 
-## Featured Project
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rama-Krishna-Pidugu\&show_icons=true\&theme=tokyonight)
 
-### PikaDecks
+![GitHub Streak](https://streak-stats.demolab.com?user=Rama-Krishna-Pidugu\&theme=tokyonight)
 
-An AI-powered learning platform that helps students:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rama-Krishna-Pidugu\&layout=compact\&theme=tokyonight)
 
-* Generate flashcards instantly
-* Organize study materials
-* Learn more efficiently
-* Improve productivity through AI-assisted learning
+---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rama-Krishna-Pidugu\&show_icons=true)
-
-## Let's Connect
+## 🌐 Connect With Me
 
 * GitHub: https://github.com/Rama-Krishna-Pidugu
 
 ---
 
-"Building products that solve real problems and create meaningful impact."
+### 💡 Motto
+
+> Building products that solve real-world problems and create meaningful impact.
